@@ -14,7 +14,7 @@
    
   ## Hamburgueria Refeito com Typescript
  - feito em Typescript
- - link vercel: 
+ - link vercel: projeto em andamento
  
  
  
