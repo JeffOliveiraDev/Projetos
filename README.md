@@ -1,18 +1,18 @@
-### Projetos iniciais a serem refatorados!🌱
+# Projetos iniciais a serem refatorados!🌱
 
-# Gerenciador De Finanças 
+## Gerenciador De Finanças 
  - feito em react
  - link vercel: https://react-entrega-s1-template-nu-kenzie-hazel.vercel.app
  
- # Hamburgueria
+ ## Hamburgueria
  - feito em react
  - link vercel: https://m3-hamburgueria-zeta.vercel.app
  
-  # Hub
+  ## Hub
  - feito em react
  - link vercel: https://kenziehub-seven-beta.vercel.app
    
-  # Hamburgueria Refeito com Typescript
+  ## Hamburgueria Refeito com Typescript
  - feito em Typescript
  - link vercel: 
  
